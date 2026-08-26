@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:64
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:64.000000,
+afc-ticket-09售票机硬币处理模块故障处理-00000.ts
+#EXTINF:64.000000,
+afc-ticket-09售票机硬币处理模块故障处理-00001.ts
+#EXTINF:64.000000,
+afc-ticket-09售票机硬币处理模块故障处理-00002.ts
+#EXTINF:49.666667,
+afc-ticket-09售票机硬币处理模块故障处理-00003.ts
+#EXT-X-ENDLIST
